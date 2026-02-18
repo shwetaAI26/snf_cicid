@@ -1,2 +1,0 @@
--- 2️⃣ Create Database
-CREATE OR REPLACE DATABASE DEV_DATABASE;
